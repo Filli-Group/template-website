@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6117119648a29819b90ada5acb288b7a",
+    "content-hash": "3dd573200426b2d8a8f9e85fdb8885cc",
     "packages": [
         {
             "name": "anhskohbo/no-captcha",
@@ -68,16 +68,16 @@
         },
         {
             "name": "bepsvpt/secure-headers",
-            "version": "5.6.0",
+            "version": "6.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bepsvpt/secure-headers.git",
-                "reference": "96d0fc68d82827c9a04fce5f001c64307dae91a8"
+                "reference": "d8db0d7f611796e4dc7e59386d111a4d942b9f21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bepsvpt/secure-headers/zipball/96d0fc68d82827c9a04fce5f001c64307dae91a8",
-                "reference": "96d0fc68d82827c9a04fce5f001c64307dae91a8",
+                "url": "https://api.github.com/repos/bepsvpt/secure-headers/zipball/d8db0d7f611796e4dc7e59386d111a4d942b9f21",
+                "reference": "d8db0d7f611796e4dc7e59386d111a4d942b9f21",
                 "shasum": ""
             },
             "require": {
@@ -124,13 +124,12 @@
                 "except-ct",
                 "feature-policy",
                 "header",
-                "hpkp",
                 "hsts",
                 "https",
                 "laravel",
                 "referrer-policy"
             ],
-            "time": "2020-03-05T01:11:15+00:00"
+            "time": "2020-03-07T06:30:49+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -651,32 +650,32 @@
         },
         {
             "name": "htmlmin/htmlmin",
-            "version": "v6.0.1",
+            "version": "v7.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/HTMLMin/Laravel-HTMLMin.git",
-                "reference": "5351960ee6a9e48d9562b57003db5782a4cc5eab"
+                "reference": "f619d0d52864623261b76ee56084797879cb7a5d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/HTMLMin/Laravel-HTMLMin/zipball/5351960ee6a9e48d9562b57003db5782a4cc5eab",
-                "reference": "5351960ee6a9e48d9562b57003db5782a4cc5eab",
+                "url": "https://api.github.com/repos/HTMLMin/Laravel-HTMLMin/zipball/f619d0d52864623261b76ee56084797879cb7a5d",
+                "reference": "f619d0d52864623261b76ee56084797879cb7a5d",
                 "shasum": ""
             },
             "require": {
-                "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
-                "illuminate/filesystem": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
-                "illuminate/http": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
-                "illuminate/routing": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
-                "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
-                "illuminate/view": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0",
+                "illuminate/contracts": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
+                "illuminate/filesystem": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
+                "illuminate/http": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
+                "illuminate/routing": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
+                "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
+                "illuminate/view": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*|5.7.*|5.8.*|^6.0|^7.0",
                 "mrclay/minify": "^2.2",
                 "php": ">=5.5.9"
             },
             "require-dev": {
                 "graham-campbell/testbench": "^3.1|^4.0|^5.0",
                 "mockery/mockery": "^0.9.4|^1.0",
-                "phpunit/phpunit": "^4.8|^5.0|^6.0|^7.0"
+                "phpunit/phpunit": "^4.8|^5.0|^6.0|^7.0|^8.0"
             },
             "type": "library",
             "extra": {
@@ -722,7 +721,7 @@
                 "laravel",
                 "minifier"
             ],
-            "time": "2019-10-20T14:34:11+00:00"
+            "time": "2020-03-13T15:59:06+00:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
